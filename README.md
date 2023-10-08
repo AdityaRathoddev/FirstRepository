@@ -1,2 +1,2 @@
-# FirstRepository
-this is a first repostitory    //give your description
+# 5_days_75_programing_question_challange
+HEllOW THERE! I'm PRATHAMESH KEDARE ,I WELCOME YOU TO MY 5 DAYS 75 PROGRAMMIN QUESTOIN CHALLANGE .
